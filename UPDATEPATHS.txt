@@ -1,0 +1,2 @@
+update path in the bash files in 'bash' folder
+update path in core/init.php file
